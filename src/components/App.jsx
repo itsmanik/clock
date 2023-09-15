@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { ReactDOM } from "react";
 
 function App() {
     let currentTime = new Date().toLocaleTimeString();
